@@ -1,5 +1,5 @@
 # Media-Rating-Exercise
-This is a small exercise demonstrating how video sources, datalists and various media components are used in HTML.
+This is a small exercise demonstrating how video sources, datalists and various media components are used in HTML. Click the link for review: https://luthfy1900.github.io/Media-Rating-Exercise/
 
 # Explanation
 * The video element has a controls attribute to enable the video player controls (pause, volume, timeline, and so on).
